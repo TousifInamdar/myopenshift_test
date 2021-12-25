@@ -1,6 +1,6 @@
 <?php
 
 
-print{"this is first time.....");
+print("This is first time.....");
   
   ?>
